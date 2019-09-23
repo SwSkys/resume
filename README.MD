@@ -12,7 +12,7 @@
 # 技能清单
 
 * Web开发：PHP/ThinkPHP
-* 前端：JavaScript/jQuery/HTML/CSS/Bootstrap/Layui
+* 前端：JavaScript/jQuery/HTML/CSS/Bootstrap/Layui/Ajax
 * 数据库：MySQL/PDO/MongoDB
 * 版本管理：Git/Composer
 * 缓存：Redis/Memecached
