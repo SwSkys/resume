@@ -15,7 +15,7 @@
 * 前端：JavaScript/jQuery/HTML/CSS/Bootstrap/Layui/Ajax
 * 数据库：MySQL/PDO/MongoDB
 * 版本管理：Git/Composer
-* 缓存：Redis/Memecached
+* 缓存：Redis
 * 其它：微信小程序、微信公众号开发、微信支付宝支付、其他接口的使用
 
 # 个人优势
