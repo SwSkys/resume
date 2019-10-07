@@ -11,7 +11,7 @@
 
 # 技能清单
 
-* Web开发：PHP/ThinkPHP
+* Web开发：PHP/ThinkPHP/Laravel
 * 前端：JavaScript/jQuery/HTML/CSS/Bootstrap/Layui/Ajax
 * 数据库：MySQL/PDO/MongoDB
 * 版本管理：Git/Composer
